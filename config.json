@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "consume-public-api-with-python",
+      "title": "Consume a Public API with Python",
+      "description": "Use Python to request and parse data from a public API",
+      "path": "assignments/consume-public-api-with-python",
+      "dueDate": "2026-06-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
